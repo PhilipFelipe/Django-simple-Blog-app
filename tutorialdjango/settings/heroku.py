@@ -1,4 +1,4 @@
-import environ  # Carrega a biblioteca django environ
+import environ
 
 from tutorialdjango.settings.base import *
 
